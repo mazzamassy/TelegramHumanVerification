@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/sg", "destination": "/sg/index.html" },
+    { "source": "/tweb", "destination": "/tweb/index.html" }
+  ]
+}
